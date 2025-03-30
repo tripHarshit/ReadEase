@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718284233380",
+    "project_id": "readease-da1e2",
+    "storage_bucket": "readease-da1e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718284233380:android:a0c1b29fd280d0ff85a431",
+        "android_client_info": {
+          "package_name": "com.example.readease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIARR8qPXlcC9baRlFAFsRH3L3Jc5GKv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

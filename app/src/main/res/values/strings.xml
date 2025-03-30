@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadEase</string>
+    <string name="sure">Are you sure you want to delete the book?</string>
+    <string name="action">This action is irreversible.</string>
+</resources>

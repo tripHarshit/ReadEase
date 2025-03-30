@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryDark">#AAC7FF</color>
+    <color name="onTertiaryContainerDark">#511D58</color>
+    <color name="tertiaryContainerDark">#C486C8</color>
+    <color name="surfaceDimDark">#121317</color>
+
+</resources>

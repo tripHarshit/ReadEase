@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Centered Book Cover -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,20 L24,80 L84,80 L84,20 Z" />
+
+    <!-- Centered Book Spine -->
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M24,20 L30,20 L30,80 L24,80 Z" />
+
+    <!-- Centered Bookmark -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M48,20 L60,20 L48,38 Z" />
+
+    <!-- Centered Page Lines -->
+    <group android:translateX="4">
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,25 L80,25" />
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,35 L80,35" />
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,45 L80,45" />
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,55 L80,55" />
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,65 L80,65" />
+        <path
+            android:strokeColor="#B2DFDB"
+            android:strokeWidth="0.8"
+            android:pathData="M34,75 L80,75" />
+    </group>
+</vector>
